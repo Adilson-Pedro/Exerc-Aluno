@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc-Aluno", "Exerc-Aluno\Exerc-Aluno.csproj", "{1A1EDC9E-D1E0-4C23-9959-0036EA6AB1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1EDC9E-D1E0-4C23-9959-0036EA6AB1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1EDC9E-D1E0-4C23-9959-0036EA6AB1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1EDC9E-D1E0-4C23-9959-0036EA6AB1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1EDC9E-D1E0-4C23-9959-0036EA6AB1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E74EFB-667D-47CE-A645-09FF103C5CD2}
+	EndGlobalSection
+EndGlobal
